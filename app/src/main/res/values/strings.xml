@@ -1,10 +1,10 @@
 <resources>
-    <string name="app_name">WishList App</string>
-    <string name="update_wish">Update Wish</string>
-    <string name="add_wish">Add Wish</string>
-    <string name="add_icon_desc">Add Icon</string>
-    <string name="del_icon_desc">Delete Icon</string>
-    <string name="label_title">Title</string>
-    <string name="label_description">Description</string>
-    <string name="label_dismiss">Dismiss</string>
+    <string name="app_name">Notizen App</string>
+    <string name="update_wish">Notiz aktualisieren</string>
+    <string name="add_wish">Notiz hinzufügen</string>
+    <string name="add_icon_desc">Icon hinzufügen</string>
+    <string name="del_icon_desc">Icon löschen</string>
+    <string name="label_title">Notiz</string>
+    <string name="label_description">Beschreibung</string>
+    <string name="label_dismiss">Fehler</string>
 </resources>

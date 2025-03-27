@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "WishList App"
+rootProject.name = "KuNo App"
 include(":app")
  
